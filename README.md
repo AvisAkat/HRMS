@@ -1,4 +1,15 @@
 # HRMS
-This is a php Human Resource Management  System
+This is a PHP Human Resource Management  System
 
-Created for a client. it was a question
+Created for a client. It was a question
+
+LOGIN DETAILS
+
+Admin
+username = admin;
+password = admin1234;
+
+Employee
+username = employee;
+password = employee;
+
